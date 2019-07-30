@@ -1,0 +1,77 @@
+<resources>
+
+
+    <!-- Unit base Dimensions  which we will use for margin and padding-->
+    <dimen name="unit_1">1dp</dimen>
+    <dimen name="unit_2">2dp</dimen>
+    <dimen name="unit_4">4dp</dimen>
+    <dimen name="unit_6">6dp</dimen>
+    <dimen name="unit_8">8dp</dimen>
+    <dimen name="unit_10">10dp</dimen>
+    <dimen name="unit_12">12dp</dimen>
+    <dimen name="unit_14">14dp</dimen>
+    <dimen name="unit_16">16dp</dimen>
+    <dimen name="unit_20">20dp</dimen>
+    <dimen name="unit_24">24dp</dimen>
+    <dimen name="unit_28">28dp</dimen>
+    <dimen name="unit_32">32dp</dimen>
+    <dimen name="unit_36">36dp</dimen>
+    <dimen name="unit_40">40dp</dimen>
+    <dimen name="unit_44">44dp</dimen>
+    <dimen name="unit_48">48dp</dimen>
+    <dimen name="unit_52">52dp</dimen>
+    <dimen name="unit_56">56dp</dimen>
+    <dimen name="unit_60">60dp</dimen>
+    <dimen name="unit_64">64dp</dimen>
+    <dimen name="unit_70">70dp</dimen>
+    <dimen name="unit_72">72dp</dimen>
+    <dimen name="unit_75">75dp</dimen>
+
+    <dimen name="unit_80">80dp</dimen>
+    <dimen name="unit_90">90dp</dimen>
+    <dimen name="unit_100">100dp</dimen>
+    <dimen name="unit_110">110dp</dimen>
+    <dimen name="unit_150">150dp</dimen>
+    <dimen name="unit_120">120dp</dimen>
+    <dimen name="unit_130">130dp</dimen>
+    <dimen name="unit_140">140dp</dimen>
+    <dimen name="unit_160">160dp</dimen>
+    <dimen name="unit_170">170dp</dimen>
+    <dimen name="unit_180">180dp</dimen>
+    <dimen name="unit_200">200dp</dimen>
+    <dimen name="unit_220">220dp</dimen>
+    <dimen name="unit_240">240dp</dimen>
+    <dimen name="unit_250">250dp</dimen>
+    <dimen name="unit_260">260dp</dimen>
+    <dimen name="unit_270">270dp</dimen>
+    <dimen name="unit_280">280dp</dimen>
+    <dimen name="unit_300">300dp</dimen>
+    <dimen name="unit_320">320dp</dimen>
+    <dimen name="unit_340">340dp</dimen>
+    <dimen name="unit_360">360dp</dimen>
+    <dimen name="unit_380">380dp</dimen>
+    <dimen name="unit_400">400dp</dimen>
+    <dimen name="my_profile_negative_margin">-13dp</dimen>
+
+    <!-- Unit base Dimensions  which we will use for fonts -->
+    <dimen name="unit_1sp">1sp</dimen>
+    <dimen name="unit_2sp">2sp</dimen>
+    <dimen name="unit_4sp">4sp</dimen>
+    <dimen name="unit_6sp">6sp</dimen>
+    <dimen name="unit_8sp">8sp</dimen>
+    <dimen name="unit_10sp">10sp</dimen>
+    <dimen name="unit_12sp">12sp</dimen>
+    <dimen name="unit_14sp">14sp</dimen>
+    <dimen name="unit_16sp">16sp</dimen>
+    <dimen name="unit_18sp">18sp</dimen>
+    <dimen name="unit_20sp">20sp</dimen>
+    <dimen name="unit_22sp">22sp</dimen>
+    <dimen name="unit_24sp">24sp</dimen>
+    <dimen name="unit_26sp">26sp</dimen>
+    <dimen name="unit_28sp">28sp</dimen>
+    <dimen name="unit_30sp">30sp</dimen>
+    <dimen name="unit_32sp">32sp</dimen>
+    <dimen name="unit_34sp">34sp</dimen>
+    <dimen name="unit_36sp">36sp</dimen>
+
+</resources>

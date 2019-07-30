@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:weightSum="2">
+
+
+
+    <fragment
+        android:id="@+id/mapview"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+            android:background="@drawable/button_with_background_rounded_corners"
+        android:layout_marginTop="@dimen/unit_32"
+        android:layout_marginLeft="@dimen/unit_8"
+        android:layout_marginRight="@dimen/unit_8">
+
+        <fragment
+            android:id="@+id/editTextSearch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:name="com.google.android.gms.location.places.ui.PlaceAutocompleteFragment"
+            />
+
+        <EditText
+            android:id="@+id/editTextRadius"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:layout_marginTop="@dimen/unit_10"
+            android:layout_below="@id/editTextSearch"
+            android:hint="Enter Your Radius For Getting Alerts"
+            android:textColor="@color/colorBlack"
+            />
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/unit_120"
+        android:gravity="center"
+        android:layout_alignParentBottom="true"
+        android:background="@color/colorWhite"
+        >
+
+
+        <Button
+            android:layout_marginTop="@dimen/unit_10"
+            android:id="@+id/bt_done"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:text="@string/done"
+            android:textColor="@color/colorBlack"
+            android:textAllCaps="true"
+            android:layout_centerInParent="true"
+            />
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UserLocationAlert</string>
+    <string name="tracking_enabled_notif">Tracking is currently enabled. Tap to cancel.</string>
+
+    <string name="google_maps_key">AIzaSyDfZQTEJVUl3bKMF8pAdAGwpPy1TyO7GgY</string>
+    <string name="done">Done</string>
+</resources>
